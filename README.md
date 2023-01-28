@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sunlightwings.
-- 👀 I’m interested in chess.
-- 🌱 I’m currently learning Python and ML.
+- 👀 I’m interested in sitting quietly.
 
 <!---
 SunlightWings/SunlightWings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
