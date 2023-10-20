@@ -1,3 +1,4 @@
+![logo](https://github.com/SunlightWings/SunlightWings/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm PSP</h1>
 <h3 align="center">A passionate learner from Nepal.</h3>
 <img align="right" alt="progress" width="400" src="https://ruya.studio/assets/images/dev.webp"
