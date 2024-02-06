@@ -1,6 +1,6 @@
 ![logo](https://github.com/SunlightWings/SunlightWings/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm PSP</h1>
-<h3 align="center">A passionate learner from Nepal.</h3>
+<h3 align="center">Trying to code..</h3>
 <img align="right" alt="progress" width="400" src="https://ruya.studio/assets/images/dev.webp"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunlightwings&label=Profile%20views&color=0e75b6&style=flat" alt="sunlightwings" /> </p>
